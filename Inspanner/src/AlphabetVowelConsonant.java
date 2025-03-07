@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //- upper case ASCII code lies between 65-90
-//        - lower case ASCII code lies between 97 to 122
+//- lower case ASCII code lies between 97-122
 //check if the character is alphabet or not then check if its vowel or consonant
 public class AlphabetVowelConsonant {
     public static void main(String[] args) {
