@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //check if a number is positive -> if it lies between 1-5
 // negative -> if it lies between -1 to -5
 public class PositiveInRange {
