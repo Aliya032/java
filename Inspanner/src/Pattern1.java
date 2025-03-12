@@ -3,7 +3,7 @@
 //333
 //2222
 //11111
-public class FloydsTrianglePattern4 {
+public class Pattern1 {
     public static void main(String[] args) {
         int i = 5;
         while (i>=1) {
